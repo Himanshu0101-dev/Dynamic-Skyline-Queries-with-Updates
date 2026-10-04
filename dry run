@@ -1,0 +1,8 @@
+Dry Run (Step-by-Step):
+Buildings = [2, 5, 3, 7, 1]
+
+Query(2,4): max in [5,3,7] → 7
+
+Update(3,10): buildings → [2,5,10,7,1]
+
+Query(1,5): max in [2,5,10,7,1] → 10
