@@ -1,0 +1,14 @@
+Example:
+Input:
+Code
+N = 5
+Buildings = [2, 5, 3, 7, 1]
+Queries:
+Q1: Query(2, 4)
+Q2: Update(3, 10)
+Q3: Query(1, 5)
+Output:
+Code
+Q1 → 7
+Q2 → (no output, just update)
+Q3 → 10
